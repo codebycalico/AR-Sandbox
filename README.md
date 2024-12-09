@@ -1,3 +1,5 @@
+Edited by Calico for OMSI.
+
 # AR-Sandbox
 
 Visually augmented sandbox using Kinect and Unity3D.
